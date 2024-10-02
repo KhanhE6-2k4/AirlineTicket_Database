@@ -1,5 +1,5 @@
-# Hệ thống quản lí vé máy bay 
-# This is an Airline Ticket Management System project for the Database Lab class in SOICT, HUST - semester 20232
+  # Hệ thống quản lí vé máy bay 
+# An Airline Ticket Management System project for the Database Lab class in SOICT, HUST - semester 20232
 Cơ sở dữ liệu đặt vé máy bay là một hệ thống cơ sở dữ liệu được thiết kế để lưu trữ và quản lý thông tin liên quan đến các giao dịch đặt vé máy bay. 
 Cơ sở dữ liệu này chứa các bảng dữ liệu và các quan hệ giữa chúng, giúp hệ thống đặt vé máy bay hoạt động một cách hiệu quả và linh hoạt. 
 
